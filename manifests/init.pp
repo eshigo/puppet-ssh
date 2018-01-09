@@ -1,11 +1,6 @@
 # Class: ssh
 # ===========================
 #
-# Full description of class ssh here.
-#
-# Parameters
-# ----------
-#
 # Document parameters here.
 #
 # * `sample parameter`
